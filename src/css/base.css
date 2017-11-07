@@ -1,0 +1,39 @@
+.test {
+	font-size: 16px;
+	color: green;
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.container .head {
+	font-size: 30px;
+	color: green;
+	padding: 30px;
+}
+.container .logo {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.container .list-box {
+	display: flex;
+}
+.container .list-box .list {
+	flex: 1;
+	height: 180px;
+}
+.container .list-box .one {
+	background: url(../images/icon_one.png) no-repeat;
+}
+.container .list-box .two {
+	background: url(../images/icon_two.png) no-repeat;
+}
+.container .list-box .five {
+	background: url(../images/news1.png) no-repeat;
+}
+.container .list-box .six {
+	background: url(../images/news2.png) no-repeat;
+}
