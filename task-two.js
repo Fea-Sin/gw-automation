@@ -3,7 +3,7 @@ var Task = require('shell-task')
 new Task('sleep 1000')
 		.then('git add .')
 		.then('sleep 1000')
-		.then('git commit -m "up to gw 2.0.0"')
+		.then('git commit -m "change git ignore"')
 		.then('git push -u origin master')
 		.run(function(err, next) {
 			if (err) {

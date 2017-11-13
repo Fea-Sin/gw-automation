@@ -2,5 +2,5 @@ node_modules/
 dist
 rev
 build
-task-one.js
-task-two.js
+task-one
+task-two
