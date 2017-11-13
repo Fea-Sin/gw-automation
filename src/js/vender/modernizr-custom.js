@@ -22,7 +22,7 @@
  * of control over the experience.
 */
 
-console.log('hello from modernizr')
+console.log('hello from modernizr hdhhdhfhh')
 
 ;(function(window, document, undefined){
   var classes = [];
