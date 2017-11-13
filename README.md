@@ -32,7 +32,7 @@ gulp help
 - 使用方便，`gulp build` 打包生成 build 最终部署文件包，并为你打开浏览器呈现最终页面
 
 > GW 即‘官网’之意，让开发前端网站类项目轻松而自由
-
+  
   enjoy your GW-automation
 
 
